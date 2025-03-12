@@ -96,7 +96,7 @@ Devvit.addCustomPostType({
     counterInterval.start();
 
     // Animate the counter as a smooth value from 0 - 100 to show as a progress bar bouncing back and forth
-    const progress = (Math.cos((counter / 360) * (2 * Math.PI)) * 50) + 50;
+    const progress = (Math.cos(counter * (2 * Math.PI / 360)) * 50) + 50;
 
     // #endregion
 

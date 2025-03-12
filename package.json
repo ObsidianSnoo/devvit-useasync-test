@@ -5,7 +5,7 @@
   "license": "BSD-3-Clause",
   "type": "module",
   "dependencies": {
-    "@devvit/public-api": "0.11.4-next-2024-11-18-ab991d9ed.0"
+    "@devvit/public-api": "0.11.10-next-2025-03-11-19863e3ca.0"
   },
   "devDependencies": {
     "typescript": "5.3.2"
